@@ -2,7 +2,7 @@
 
 Multi-Valued Skyline Community Search
 
-Code for the paper "Skyline Community Search in Multi-valued Networks"
+Code for the paper "Skyline Community Search in Multi-valued Networks" [SIGMOD 2018]
 
 This paper tries to handle the problem of identifying influential communities (i.e., skyline communities) from networks whose nodes have multiple attributes. 
 
